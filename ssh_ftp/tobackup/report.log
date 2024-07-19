@@ -1,0 +1,12 @@
+May 26 18:32:01 kali sshd[83044]: Failed password for invalid user kal from 10.0.2.2 port 56396 ssh2
+May 26 18:32:04 kali sshd[83044]: Connection closed by invalid user kal 10.0.2.2 port 56396 [preauth]
+May 26 18:32:01 kali sshd[83044]: Failed password for invalid user kal from 10.0.2.2 port 56396 ssh2
+May 26 18:32:04 kali sshd[83044]: Connection closed by invalid user kal 10.0.2.2 port 56396 [preauth]
+May 26 18:32:48 kali sshd[83457]: Failed password for kali from 10.0.2.2 port 56401 ssh2
+May 26 18:32:48 kali sshd[83457]: Failed password for kali from 10.0.2.2 port 56401 ssh2
+May 26 18:38:56 kali sshd[86510]: Failed password for kali from 10.0.2.2 port 56785 ssh2
+May 26 18:38:56 kali sshd[86510]: Failed password for kali from 10.0.2.2 port 56785 ssh2
+May 26 18:47:08 kali sshd[90772]: Failed password for kali from 10.0.2.2 port 56813 ssh2
+May 26 18:47:08 kali sshd[90772]: Failed password for kali from 10.0.2.2 port 56813 ssh2
+May 26 20:41:59 kali sshd[146556]: banner exchange: Connection from 111.9.240.38 port 53479: invalid format
+May 26 20:41:59 kali sshd[146556]: banner exchange: Connection from 111.9.240.38 port 53479: invalid format
